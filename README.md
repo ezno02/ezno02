@@ -37,5 +37,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ezno02/ezno02/output/snake.svg" alt="Snake animation" />
-
-###
