@@ -45,7 +45,3 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaa.maurodesouzaa&right_color=orange"  />
 
 ###
-
-<img src="https://raw.githubusercontent.com/maurodesouzaa/maurodesouzaa/output/snake.svg" alt="Snake animation" />
-
-###
